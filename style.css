@@ -421,7 +421,7 @@ form input,form textarea{
 .contact-left h1{
         font-size:90px;
         position: relative;
-        top:1450px;
+        top:1550px;
         left:125px;
         
 }
@@ -433,7 +433,7 @@ form input,form textarea{
         
     position: relative;
     left:90px;
-        top:1390px;
+        top:1490px;
         font-size:45px; 
        
 }
@@ -445,21 +445,21 @@ form input,form textarea{
 }
 .social-icons i{
         position: relative;
-        top:1450px;
+        top:1550px;
         left:40px;
         font-size:60px;
         margin-right:25px;
 }
 form input,form textarea{
     position: relative;
-    top:1450px;  
+    top:1550px;  
     left:35px; 
     width:500px;
     font-size:40px;
 }
 .btn2{
     position: relative;
-    top:1450px; 
+    top:1550px; 
     left:45px; 
     font-size:40px;
 }
