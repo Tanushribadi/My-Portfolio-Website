@@ -257,7 +257,7 @@ form input,form textarea{
 
 
 
-@media screen and (max-width:600px){                    /*screen width will 0 to 600px*/
+@media screen and (max-width:400px){                    /*screen width will 0 to 600px*/
     #header {
       background-image: url(img/tanuimg.jpg);
       background-position: center center;
@@ -265,7 +265,7 @@ form input,form textarea{
       margin:0;
       padding:0;
       width:650px;
-      height:1100px;
+      height:1170px;
       overflow: hidden; 
     }
     .header-text{
@@ -357,10 +357,19 @@ form input,form textarea{
 }
 .project1 button{
     font-size:30px;
-    margin:5px;
+    margin:40px;
     margin-top:10px;
+
 }
 
+.project1 .calb1{
+    position:relative;
+    left:70px;
+}
+.project1 .calb2{
+    position:relative;
+    left:100px;
+}
 
 .project2 {
     height:700px;
@@ -377,13 +386,22 @@ form input,form textarea{
 }
 .project2 button{
     font-size:30px;
-    margin:5px;
-    margin-top:10px;
+    margin:20px;
+    margin-top:25px;
+}
+
+.project2 .todob1{
+    position:relative;
+    left:90px;
+}
+.project2 .todob2{
+    position:relative;
+    left:120px;
 }
 
 
 .project3 {
-    height:700px;
+    height:720px;
     width:540px;
     margin-left:10px; 
     border:9px solid #ff004f;
@@ -398,11 +416,12 @@ form input,form textarea{
     font-size:30px;
     margin:5px;
     margin-top:10px;
+    margin-left:100px;
 }
 .contact-left h1{
         font-size:90px;
         position: relative;
-        top:1300px;
+        top:1450px;
         left:125px;
         
 }
@@ -413,8 +432,8 @@ form input,form textarea{
 .contact-left #mail{
         
     position: relative;
-    left:120px;
-        top:1300px;
+    left:90px;
+        top:1390px;
         font-size:45px; 
        
 }
@@ -422,38 +441,25 @@ form input,form textarea{
     position: relative;
     left:-55px;
         top:53px;
-    font-size:40px;
+    font-size:45px;
 }
 .social-icons i{
         position: relative;
-        top:1350px;
-        left:70px;
+        top:1450px;
+        left:40px;
         font-size:60px;
         margin-right:25px;
 }
-
 form input,form textarea{
     position: relative;
-    top:1350px;  
-    left:45px; 
+    top:1450px;  
+    left:35px; 
     width:500px;
     font-size:40px;
 }
 .btn2{
     position: relative;
-    top:1350px; 
+    top:1450px; 
     left:45px; 
     font-size:40px;
 }
-
-
-
-}
-
-
-
-
-
-
-    
-                                             
