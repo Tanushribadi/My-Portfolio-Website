@@ -308,11 +308,10 @@ form input,form textarea{
         font-size:70px;
     }
     .about-col-2 p{
-        font-size:35px;
-        margin-right:10px;
+      font-size:37px;
         margin-top:20px;
-        padding-left:16px;   
-        line-height:4rem;  
+        line-height:3.9rem;
+        text-align: justify;   
     }
    
     .tab-titles p{
