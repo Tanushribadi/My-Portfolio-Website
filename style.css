@@ -310,6 +310,7 @@ form input,form textarea{
     .about-col-2 p{
       font-size:37px;
         margin-top:20px;
+        margin-right:10px;
         line-height:3.9rem;
         text-align: justify;   
     }
